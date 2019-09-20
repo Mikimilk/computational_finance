@@ -1,4 +1,4 @@
-# Program and description of Computational Finance
+# Program and Description of Computational Finance Homework
 
 This git collects python program that practice about plotting computation of returns such as simple daily returns, log daily returns, annualized daily returns etc. ,computation of parameters such as covariance ,correlation ,mean ,kurtosis etc. and sheet that describe what I have observed from plotting or results of computation.
 
